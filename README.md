@@ -64,3 +64,9 @@ gtkwave processor_top.vcd
 - Data memory
 - Control unit
 - Verilog simulation with GTKWave
+
+## Detailed documentation
+
+## Full documentation
+
+[Project explanation document](https://docs.google.com/document/d/188Yfc-CxW-l9id6PYtm5xLPM-HgZwHgRjVaCt-3DXAY/edit?usp=sharing)
